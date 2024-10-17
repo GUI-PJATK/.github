@@ -6,7 +6,7 @@ I. Without modifying the main method, make the code below work.
 
 Hint: Subject class can have access to students’ set (e.g. an array). Adding too many students to the set may throw an exception.  
 
-'''java
+```java
 public class Main {
 
       public static void main(String args[]) {
@@ -30,4 +30,4 @@ public class Main {
             System.out.println(s); //GUI, teacher: Jan, students: Jasiek
       }
 }
-'''
+```
